@@ -1,2 +1,1 @@
-a = "Nishnath"
-b = "Rai"
+print("Nishnath")
